@@ -1,0 +1,12 @@
+name: AnvilUI
+version: 0.0.1
+api: 5.0.0
+author: Skso
+main: Skso\AnvilUI
+softdepend: [EconomyAPI, FormAPI]
+
+
+permissions:
+  anvilui.cmd:
+    description: Permet d'utiliser une enclume !
+    default: true
